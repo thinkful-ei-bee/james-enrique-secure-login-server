@@ -8,7 +8,7 @@ TRUNCATE
 
 INSERT INTO thingful_users (user_name, full_name, nickname, password)
 VALUES
-  ('dunder', 'Dunder Mifflin', null, '$2a$12$zQv6kAQ.HRVDR4XchlEnnOS3.j1JStw9DExKVeSpsTbI8OLX6Va5q'),
+  ('dunder', 'Dunder Mifflin', null, 'password'),
   ('b.deboop', 'Bodeep Deboop', 'Bo', '$2a$12$605suZ7vwrQA/0UVpmGJwumF1hI7UmhLW5cE5wOREdzR3VqqdwK76'),
   ('c.bloggs', 'Charlie Bloggs', 'Charlie', '$2a$12$qzMEDZCulUe0q0RoRGWHEuq2pjq09XgJKs3qjC6T.0nQptpaxEocO'),
   ('s.smith', 'Sam Smith', 'Sam', '$2a$12$7LSGpDsEBuA2xnQmcoEeEOTDszj5OvkvtpQlIfLJNaoAp58zKg2VW'),
